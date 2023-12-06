@@ -1,0 +1,15 @@
+﻿  32번.cpp
+C:\Users\rlaeh\source\repos\computer graphics\텍스쳐\32번.cpp(119,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rlaeh\source\repos\computer graphics\텍스쳐\32번.cpp(373,1): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlaeh\source\repos\computer graphics\텍스쳐\32번.cpp(378,34): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\rlaeh\source\repos\computer graphics\텍스쳐\32번.cpp(382,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlaeh\source\repos\computer graphics\텍스쳐\32번.cpp(382,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlaeh\source\repos\computer graphics\텍스쳐\32번.cpp(448,10): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlaeh\source\repos\computer graphics\텍스쳐\32번.cpp(449,11): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rlaeh\source\repos\computer graphics\텍스쳐\32번.cpp(602,10): warning C4101: 'bmp' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  0 of 658 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  텍스쳐.vcxproj -> C:\Users\rlaeh\source\repos\computer graphics\x64\Release\텍스쳐.exe
